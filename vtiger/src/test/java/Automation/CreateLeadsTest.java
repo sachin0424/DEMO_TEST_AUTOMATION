@@ -12,4 +12,11 @@ public class CreateLeadsTest {
 	public void createLeadsname() {
 		System.out.println("Created Leadsname");
 	}
-}
+		
+	@Test	
+    public void createorganization()
+    {
+    	System.out.println("sachin is watching more items");
+    }
+	}
+
