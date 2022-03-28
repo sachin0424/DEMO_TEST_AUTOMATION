@@ -6,6 +6,6 @@ public class LogoutVtiger {
 
 	@Test
 	public void LogoutAppl() {
-		System.out.println("aplication Logout done");
+		System.out.println("aplication Logout don");
 	}
 }

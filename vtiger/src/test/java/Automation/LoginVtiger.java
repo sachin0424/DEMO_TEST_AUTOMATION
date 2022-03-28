@@ -28,7 +28,7 @@ public class LoginVtiger {
 		WebDriverManager.firefoxdriver().setup();
 		driver=new FirefoxDriver();
 	}else {
-		throw new Exception("beowser is not compatiblee");
+		throw new Exception("beowser is not compatible");
 	}
 		driver.get(url);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

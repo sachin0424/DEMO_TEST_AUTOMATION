@@ -9,7 +9,7 @@ public class CreateContactTest {
 		System.out.println("Create Contact");
 		
 		System.out.println("user 1:-create Contact");
-		System.out.println("user 2:- created contactname by using phonenumbr");
+		System.out.println("user 2:- created contactname by using phonenumber");
 		
 	}
 }

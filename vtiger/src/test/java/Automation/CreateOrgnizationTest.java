@@ -10,6 +10,6 @@ public class CreateOrgnizationTest {
 		
 		
 		
-		System.out.println("user 2:- organization create");
+		System.out.println("user 2:- organization created");
 	}
 }

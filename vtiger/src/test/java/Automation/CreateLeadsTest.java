@@ -16,7 +16,7 @@ public class CreateLeadsTest {
 	@Test	
     public void createorganization()
     {
-    	System.out.println("sachin is watching more itemss");
+    	System.out.println("sachin is watching more items");
     }
 	}
 
