@@ -11,5 +11,8 @@ public class CreateProductTest {
 		
 		
 		System.out.println(" user 2 my product is ready");
+		
+		
+		System.out.println("user 3 my product updated");
 	}
 }
